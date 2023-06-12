@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 import time
-TOKEN = '6019152480:AAFXsZ7pSp6FiOVX7aHTQb_-M0yYoEgjNXE'
+TOKEN = 'Your TOKEN'
 bot = telebot.TeleBot(TOKEN)
 decision = True
 base = 'C:\\Users\\Brux\\Desktop\\test_folder\\The_base_bot'
